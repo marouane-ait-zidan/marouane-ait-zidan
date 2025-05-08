@@ -80,7 +80,3 @@
   </picture>
 </p>
 
----
-<p align="center">
-  <i>Proudly crafted with GPRM (https://gprm.itsvg.in)</i>
-</p>
